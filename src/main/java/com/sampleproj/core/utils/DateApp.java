@@ -7,7 +7,7 @@ import org.joda.time.format.DateTimeFormatter;
 public class DateApp {
 
 	public static void main(String[] args) {
-		 System.out.println( "Hello World!" );
+//		 System.out.println( "Hello World!" );
 	        
 	        String dateTime = "11/15/2013 08:00:00";
 	     // Format for input
